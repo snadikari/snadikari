@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snadikari
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning sql, tableau and python
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👀 I’m interested in data analysis and programming
+- 🌱 I’m currently use python, javascript, sql, tableau, html and css
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - Instagram @sn.adikari or @datadashers 
 
 <!---
